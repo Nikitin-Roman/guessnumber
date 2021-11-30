@@ -1,0 +1,16 @@
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.csproj.AssemblyReference.cache
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.AssemblyInfoInputs.cache
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.AssemblyInfo.cs
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.csproj.CoreCompileInputs.cache
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.exe
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.deps.json
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.runtimeconfig.json
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.runtimeconfig.dev.json
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.dll
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\ref\GuessNumber.dll
+D:\c#\guessnumber\GuessNumber\GuessNumber\bin\Debug\net5.0\GuessNumber.pdb
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.dll
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\ref\GuessNumber.dll
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.pdb
+D:\c#\guessnumber\GuessNumber\GuessNumber\obj\Debug\net5.0\GuessNumber.genruntimeconfig.cache
